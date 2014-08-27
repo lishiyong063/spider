@@ -5,7 +5,7 @@ import re
 import os
 import threading
 lock = threading.Lock()
-url='http://wanimal.lofter.com/'
+url='http://xxxxxxxxx/'
 imgurl=[]
 def getHtml(url):
     global imgurl
